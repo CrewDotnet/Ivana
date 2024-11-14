@@ -1,0 +1,42 @@
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/bin/Debug/net8.0/CafeShop
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/bin/Debug/net8.0/CafeShop.deps.json
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/bin/Debug/net8.0/CafeShop.runtimeconfig.json
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/bin/Debug/net8.0/CafeShop.dll
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/bin/Debug/net8.0/CafeShop.pdb
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/obj/Debug/net8.0/CafeShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/obj/Debug/net8.0/CafeShop.AssemblyInfoInputs.cache
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/obj/Debug/net8.0/CafeShop.AssemblyInfo.cs
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/obj/Debug/net8.0/CafeShop.csproj.CoreCompileInputs.cache
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/obj/Debug/net8.0/CafeShop.dll
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/obj/Debug/net8.0/refint/CafeShop.dll
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/obj/Debug/net8.0/CafeShop.pdb
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/obj/Debug/net8.0/CafeShop.genruntimeconfig.cache
+/Users/ivana.korpak/unit-testing-using-dotnet-test/CafeShop/obj/Debug/net8.0/ref/CafeShop.dll
+/Users/ivana.korpak/Decoration/CafeShop/bin/Debug/net8.0/CafeShop
+/Users/ivana.korpak/Decoration/CafeShop/bin/Debug/net8.0/CafeShop.deps.json
+/Users/ivana.korpak/Decoration/CafeShop/bin/Debug/net8.0/CafeShop.runtimeconfig.json
+/Users/ivana.korpak/Decoration/CafeShop/bin/Debug/net8.0/CafeShop.dll
+/Users/ivana.korpak/Decoration/CafeShop/bin/Debug/net8.0/CafeShop.pdb
+/Users/ivana.korpak/Decoration/CafeShop/obj/Debug/net8.0/CafeShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivana.korpak/Decoration/CafeShop/obj/Debug/net8.0/CafeShop.AssemblyInfoInputs.cache
+/Users/ivana.korpak/Decoration/CafeShop/obj/Debug/net8.0/CafeShop.AssemblyInfo.cs
+/Users/ivana.korpak/Decoration/CafeShop/obj/Debug/net8.0/CafeShop.csproj.CoreCompileInputs.cache
+/Users/ivana.korpak/Decoration/CafeShop/obj/Debug/net8.0/CafeShop.dll
+/Users/ivana.korpak/Decoration/CafeShop/obj/Debug/net8.0/refint/CafeShop.dll
+/Users/ivana.korpak/Decoration/CafeShop/obj/Debug/net8.0/CafeShop.pdb
+/Users/ivana.korpak/Decoration/CafeShop/obj/Debug/net8.0/CafeShop.genruntimeconfig.cache
+/Users/ivana.korpak/Decoration/CafeShop/obj/Debug/net8.0/ref/CafeShop.dll
+/Users/ivana.korpak/Decoration simple/CafeShop/bin/Debug/net8.0/CafeShop
+/Users/ivana.korpak/Decoration simple/CafeShop/bin/Debug/net8.0/CafeShop.deps.json
+/Users/ivana.korpak/Decoration simple/CafeShop/bin/Debug/net8.0/CafeShop.runtimeconfig.json
+/Users/ivana.korpak/Decoration simple/CafeShop/bin/Debug/net8.0/CafeShop.dll
+/Users/ivana.korpak/Decoration simple/CafeShop/bin/Debug/net8.0/CafeShop.pdb
+/Users/ivana.korpak/Decoration simple/CafeShop/obj/Debug/net8.0/CafeShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivana.korpak/Decoration simple/CafeShop/obj/Debug/net8.0/CafeShop.AssemblyInfoInputs.cache
+/Users/ivana.korpak/Decoration simple/CafeShop/obj/Debug/net8.0/CafeShop.AssemblyInfo.cs
+/Users/ivana.korpak/Decoration simple/CafeShop/obj/Debug/net8.0/CafeShop.csproj.CoreCompileInputs.cache
+/Users/ivana.korpak/Decoration simple/CafeShop/obj/Debug/net8.0/CafeShop.dll
+/Users/ivana.korpak/Decoration simple/CafeShop/obj/Debug/net8.0/refint/CafeShop.dll
+/Users/ivana.korpak/Decoration simple/CafeShop/obj/Debug/net8.0/CafeShop.pdb
+/Users/ivana.korpak/Decoration simple/CafeShop/obj/Debug/net8.0/CafeShop.genruntimeconfig.cache
+/Users/ivana.korpak/Decoration simple/CafeShop/obj/Debug/net8.0/ref/CafeShop.dll
